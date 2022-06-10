@@ -30,6 +30,9 @@
             <ul class="list-unstyled components">
                 <p>Menú Principal</p>
                 <li>
+                    <a href="{{url('/')}}"></i> Inicio</a>
+                </li>
+                <li>
                     <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Ordenes</a>
                     <ul class="collapse list-unstyled" id="pageSubmenu">
                         <li>
